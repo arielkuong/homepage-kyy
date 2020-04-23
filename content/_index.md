@@ -1,11 +1,10 @@
 ---
 title: Home
-date: 2020-04-23
-authorbox: false
+date: 2020-04-22
 sidebar: false
-menu: false
-toc: false
 ---
+
+![portrait](/img/portrait.jpg)
 
 Keywords: {Robotics, Embedded Systems, Control Engineering, Industrial Automation}
 
@@ -13,21 +12,21 @@ Keywords: {Robotics, Embedded Systems, Control Engineering, Industrial Automatio
 
 ## Summary
 
-I am current a PhD student at Aston University, UK. My research is focused on using state-of-the-art transfer learning and reinforcement learning to teach a robot manipulator with high-degree-of-freedom to learn complex skills from a human demonstrator. The research is funded by the EU CHRIST-ERA InDex project which lasts from 2019 to 2022.
+I am current a PhD student at Aston University, UK. My research is focused on using state-of-the-art transfer learning and reinforcement learning to teach a robot manipulator with high-degree-of-freedom to learn complex skills from simulation / a human demonstrator. The research is funded by the EU CHRIST-ERA InDex project which is from 2019 to 2022.
 
 ## Events
 
-- July 2019: Poster presentation at TAROS 2019
+- July 2019: poster session at TAROS'2019
 
 ## Publications
 
-- Y. Kuang, Lopes, Y.K., Groß, R., Boundary Detection in a Swarm of Kilobots, TAROS, 2019
+- Y. Kuang, Lopes, Y.K., Groß, R.. Boundary Detection in a Swarm of Kilobots. Towards Autonomous Robotic Systems Conference (TAROS). 2019
 
 ## Education
 
-- 2019 - now, Doctor of Philosophy (PhD), Computer Science, Aston University, United Kingdom
-- 2013 - 2014, MSc in Engineering (MEng), Control Systems, University of Sheffield, United Kingdom
-- 2007 - 2011, Bachelor of Engineering (BEng), Automation, South China University of Technology, China
+- (2019 - 2022 est.) PhD in Computer Science, Aston University, United Kingdom
+- (2013 - 2014) MSc in Control Systems, University of Sheffield, United Kingdom
+- (2007 - 2011) BSc in Automation, South China University of Technology, China
 
 ## Professional Experience
 
