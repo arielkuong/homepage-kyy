@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Yingyi Kuang"
+title = "Yingyi (Ariel) Kuang"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -7,20 +7,21 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "Yingyi Kuang"
-  bio = "Researcher in Robotics"
+  name = "Yingyi (Ariel) Kuang"
+  bio = "PhD Student in Robotics"
   avatar = "img/avatar.png"
 
 [Params]
-  subtitle = "Researcher in Robotics" # Subtitle of your site
+  subtitle = "PhD Student in Robotics" # Subtitle of your site
   description = "" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
-  authorbox = true
-  pager = true
+  authorbox = false
+  pager = false
   post_navigation = false
   post_meta = ["date", "categories"] # Order of post meta information
+  customCss = ["css/mystyle.css"]
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
@@ -32,3 +33,6 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[markup.goldmark.renderer]
+  unsafe = true
