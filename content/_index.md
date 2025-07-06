@@ -7,9 +7,18 @@ sidebar: false
 <img style="width: 350px; height: 370px; padding-bottom: 20px" src="/img/ariel.jpeg">
 
 ## Research
-Yingyi Kuang is currently a PhD student at Aston University, UK. Her research is focused on using state-of-the-art transfer learning and reinforcement learning to teach robot manipulators with high-degree-of-freedoms to learn complex skills based on simulation and human demonstrators. The research is funded by the EU CHRIST-ERA InDex project which is from 2019 to 2022.
+Yingyi Kuang is currently a Research Assistant at Aston University, UK. She is currently focusing on developing reinforcement learning algorithms for traffic control.
+Her PhD research, funded by the EU CHRIST-ERA InDex project, was focused on using state-of-the-art transfer learning and reinforcement learning to teach robot manipulators with high-degree-of-freedoms to learn complex skills based on simulation and human demonstrators.
 
-Research Keywords: {*Robotics, In-hand manipulation, Transfer learning, Imitation learning*}
+Research Keywords: {*Robotics, In-hand manipulation, Transfer learning, Imitation learning, Traffic Control*}
+
+
+## Projects
+### Traffic Control
+**Description here**
+
+### InDex
+**Description here**
 
 
 ## Education
@@ -21,6 +30,10 @@ Research Keywords: {*Robotics, In-hand manipulation, Transfer learning, Imitatio
 
 
 ## Experience
+<p>
+{{< twocolumn-experience "2023 - " "Research Assistant, Aston University" "**Description here**" >}}
+</p>
+
 <p>
 {{< twocolumn-experience "2016 - 2019" "Embedded Software Engineer, Nidec Control Techniques (UK)" "Worked in the Optional Module team. Responsible for the software design and maintenance for field-bus communication (EtherCAT, CANopen) modules." >}}
 </p>
@@ -36,14 +49,17 @@ Research Keywords: {*Robotics, In-hand manipulation, Transfer learning, Imitatio
 
 ## Publications
 
-{{< tag-workshop >}} Alessandro Carfì, Timothy Patten, Yingyi Kuang, Ali Hammoud, Mohamad Alameh, Elisa Maiettini, Abraham Itzhak Weinberg, Diego Faria, Fulvio Mastrogiovanni, Guillem Alenyà, Lorenzo Natale, Véronique Perdereau, Markus Vincze, Aude Billard. "Hand-Object Interaction: From Human Demonstrations to Robot Manipulation". Frontiers in Robotics and AI. 2021. <br>
-{{< tag-workshop >}} Yingyi Kuang, George Vogiatzis, Diego R Faria. "Improving Exploration Efficiency of Single-goal In-hand Manipulation Reinforcement Learning by Progressive Goal Generation". Workshop on Hand-OBject Interaction: From human demonstrations to robot manipulation. 2021. <br>
-{{< tag-conference >}} Yingyi Kuang, Abraham Itzhak Weinberg, George Vogiatzis, and Diego R. Faria. "Goal density-based hindsight experience prioritization for multi-goal robot manipulation reinforcement learning". In 2020 29th IEEE International Symposium on Robot and Human Interactive Communication (ROMAN). IEEE. 2020. <br> 
-{{< tag-conference >}} Yingyi Kuang, Yuri Kaszubowski Lopes, and Roderich Groß. "Boundary Detection in a Swarm of Kilobots". In Annual Conference Towards Autonomous Robotic Systems. pp. 462-466. Springer. 2019.
+
+- {{< tag-conference >}} Yingyi Kuang, Luis J Manso, George Vogiatzis. Goal-based Self-Adaptive Generative Adversarial Imitation Learning (Goal-SAGAIL) for Multi-goal Robotic Manipulation Tasks. 2025.
+- {{< tag-thesis >}} Yingyi Kuang. Deep Reinforcement Learning and Transfer Learning of Robot In-hand Dexterous Manipulation. 2024.
+- {{< tag-workshop >}} Alessandro Carfì, Timothy Patten, Yingyi Kuang, Ali Hammoud, Mohamad Alameh, Elisa Maiettini, Abraham Itzhak Weinberg, Diego Faria, Fulvio Mastrogiovanni, Guillem Alenyà, Lorenzo Natale, Véronique Perdereau, Markus Vincze, Aude Billard. "Hand-Object Interaction: From Human Demonstrations to Robot Manipulation". Frontiers in Robotics and AI. 2021.
+- {{< tag-workshop >}} Yingyi Kuang, George Vogiatzis, Diego R Faria. "Improving Exploration Efficiency of Single-goal In-hand Manipulation Reinforcement Learning by Progressive Goal Generation". Workshop on Hand-OBject Interaction: From human demonstrations to robot manipulation. 2021.
+- {{< tag-conference >}} Yingyi Kuang, Abraham Itzhak Weinberg, George Vogiatzis, and Diego R. Faria. "Goal density-based hindsight experience prioritization for multi-goal robot manipulation reinforcement learning". In 2020 29th IEEE International Symposium on Robot and Human Interactive Communication (ROMAN). IEEE. 2020.
+- {{< tag-conference >}} Yingyi Kuang, Yuri Kaszubowski Lopes, and Roderich Groß. "Boundary Detection in a Swarm of Kilobots". In Annual Conference Towards Autonomous Robotic Systems. pp. 462-466. Springer. 2019.
 
 
 ## Contact
-Yingyi Kuang  
+**Yingyi Kuang**  <br>
 School of Engineering & Physical Science  
 Aston University    
 Birmingham  

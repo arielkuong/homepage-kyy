@@ -4,15 +4,15 @@ languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+googleAnalytics = false
 
 [Author]
   name = "Yingyi (Ariel) Kuang"
-  bio = "PhD Candidate in Robotics & Reinforcement Learning"
+  bio = "Research Assistant in Robotics & Reinforcement Learning"
   avatar = "img/avatar.png"
 
 [Params]
-  subtitle = "PhD Candidate in Robotics & Reinforcement Learning" # Subtitle of your site
+  subtitle = "Research Assistant in Robotics & Reinforcement Learning" # Subtitle of your site
   description = "" # Description of your site
   opengraph = true
   twitter_cards = false
